@@ -151,10 +151,10 @@ TextureImporter:
       name: DiglettCombate_Derrota_0
       rect:
         serializedVersion: 2
-        x: 451
-        y: 1122
-        width: 21
-        height: 17
+        x: 184
+        y: 195
+        width: 892
+        height: 842
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

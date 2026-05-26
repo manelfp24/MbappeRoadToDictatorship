@@ -3,6 +3,7 @@ using UnityEngine;
 public class EnemigoBase : MonoBehaviour
 {
     public string nombreEnemigo;
+    public string nombreAtaqueEnemigo;
     public Estadisticas stats;
     public Sprite spriteVisual; // Sprite visual para mostrar en combate
     public Sprite spriteMuerto; // Sprite visual al ser derrotado
