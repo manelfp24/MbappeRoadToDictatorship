@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: edc7b7e1dc728c446ae811f53ae99f26
+guid: 25f43eda27af5ea419471eda6380a784
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5542998069765153667
-    second: MbappeRoadToDictatorship_0
+      213: 2133802609732162600
+    second: vini_corriendo_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MbappeRoadToDictatorship_0
+      name: vini_corriendo_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 477
-        height: 679
+        width: 2172
+        height: 724
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7cd8f4af905313b0800000000000000
-      internalID: -5542998069765153667
+      spriteID: 82413ed0b2acc9d10800000000000000
+      internalID: 2133802609732162600
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MbappeRoadToDictatorship_0: -5542998069765153667
+      vini_corriendo_0: 2133802609732162600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

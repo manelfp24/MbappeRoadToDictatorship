@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bba1559350a783d4c8aabc8cf47ad865
+guid: c14ba7eaff88968479794d57235feccf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6603321867964124867
-    second: MbappeRoadToDictatorship (3)_0
+      213: 4758952892920016243
+    second: pasillo_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MbappeRoadToDictatorship (3)_0
+      name: pasillo_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 1672
+        height: 941
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d31fd6a3fb94c54a0800000000000000
-      internalID: -6603321867964124867
+      spriteID: 37da05d21723b0240800000000000000
+      internalID: 4758952892920016243
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MbappeRoadToDictatorship (3)_0: -6603321867964124867
+      pasillo_0: 4758952892920016243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

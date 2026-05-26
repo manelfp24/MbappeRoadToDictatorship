@@ -9,11 +9,11 @@ public class MenuPrincipal : MonoBehaviour
 
     // Variable para controlar el volumen de la música de fondo
     public AudioSource musicaFondo;
-    
+
     // 1. CAMBIO DE ESCENA
     public void JugarJuego()
     {
-        SceneManager.LoadScene("Recibidor"); 
+        SceneManager.LoadScene("01_Pantalla1_Exterior"); 
     }
 
     // 2. AJUSTE DE VOLUMEN
