@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 7b00c6713c5f6184aac5a48fddd4bc8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7979823381100440081
+    second: idle_vini-_0
+  - first:
+      213: 6561700710528782370
+    second: idle_vini-_1
+  - first:
+      213: -4181883810028491565
+    second: idle_vini-_2
+  - first:
+      213: 7519066331517142446
+    second: idle_vini-_3
+  - first:
+      213: -5370264525472373236
+    second: idle_vini-_4
+  - first:
+      213: -509424877853845325
+    second: idle_vini-_5
+  - first:
+      213: -1096470608678318977
+    second: idle_vini-_6
+  - first:
+      213: 7979720018272042143
+    second: idle_vini-_7
+  - first:
+      213: -2513238856725100828
+    second: idle_vini-_8
+  - first:
+      213: -4508319687770151067
+    second: idle_vini-_9
+  - first:
+      213: -1188466895048735806
+    second: idle_vini-_10
+  - first:
+      213: 6024482968251425885
+    second: idle_vini-_11
+  - first:
+      213: 8855712076390216336
+    second: idle_vini-_12
+  - first:
+      213: 1176782733288118978
+    second: idle_vini-_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_vini-_8
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 234
+        width: 155
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e60135539e2f1dd0800000000000000
+      internalID: -2513238856725100828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_vini-_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 234
+        width: 155
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5676f8c412b3f61c0800000000000000
+      internalID: -4508319687770151067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_vini-_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 234
+        width: 155
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c30f4dd7a7b18fe0800000000000000
+      internalID: -1188466895048735806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_vini-_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 234
+        width: 155
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54640e27534b9350800000000000000
+      internalID: 6024482968251425885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_vini-_12
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 234
+        width: 155
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0923062c63fc5ea70800000000000000
+      internalID: 8855712076390216336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_vini-_13
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 234
+        width: 155
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca937b39a5c45010800000000000000
+      internalID: 1176782733288118978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 40cc17e878df2bc45942fb0aed70a4b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle_vini-_1: 6561700710528782370
+      idle_vini-_10: -1188466895048735806
+      idle_vini-_11: 6024482968251425885
+      idle_vini-_12: 8855712076390216336
+      idle_vini-_13: 1176782733288118978
+      idle_vini-_2: -4181883810028491565
+      idle_vini-_3: 7519066331517142446
+      idle_vini-_4: -5370264525472373236
+      idle_vini-_5: -509424877853845325
+      idle_vini-_6: -1096470608678318977
+      idle_vini-_7: 7979720018272042143
+      idle_vini-_8: -2513238856725100828
+      idle_vini-_9: -4508319687770151067
+      idle_vini_0: -7979823381100440081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

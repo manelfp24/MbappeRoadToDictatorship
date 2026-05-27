@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 052efe83a2cd6ee46bbbc3b218f8dfad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3388377488786930790
+    second: DiglettCombate_Derrota_0
+  - first:
+      213: 3836617134370830068
+    second: DiglettCombate_Derrota_1
+  - first:
+      213: -8157314076537681887
+    second: DiglettCombate_Derrota_2
+  - first:
+      213: 6688507011813016572
+    second: DiglettCombate_Derrota_3
+  - first:
+      213: 1765702549071183165
+    second: DiglettCombate_Derrota_4
+  - first:
+      213: -7727924585205109882
+    second: DiglettCombate_Derrota_5
+  - first:
+      213: -5304346335852764826
+    second: DiglettCombate_Derrota_6
+  - first:
+      213: 3176676019398643342
+    second: DiglettCombate_Derrota_7
+  - first:
+      213: 1134420872952452300
+    second: DiglettCombate_Derrota_8
+  - first:
+      213: -6744862245476991493
+    second: DiglettCombate_Derrota_9
+  - first:
+      213: 4086470208082121845
+    second: DiglettCombate_Derrota_10
+  - first:
+      213: 1036268403819105008
+    second: DiglettCombate_Derrota_11
+  - first:
+      213: 2678014448440946451
+    second: DiglettCombate_Derrota_12
+  - first:
+      213: -6806588987904774342
+    second: DiglettCombate_Derrota_13
+  - first:
+      213: 8657584153218484840
+    second: DiglettCombate_Derrota_14
+  - first:
+      213: -1839595657508368998
+    second: DiglettCombate_Derrota_15
+  - first:
+      213: -3485300132425912640
+    second: DiglettCombate_Derrota_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 195
+        width: 892
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93cce750a01af0d0800000000000000
+      internalID: -3388377488786930790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1123
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6b959d4f66e3530800000000000000
+      internalID: 3836617134370830068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_2
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1110
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1288da211166bce80800000000000000
+      internalID: -8157314076537681887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_3
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1091
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf303d4a0b952dc50800000000000000
+      internalID: 6688507011813016572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1092
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3db3600d19018810800000000000000
+      internalID: 1765702549071183165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_5
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b67d7b885e0c490800000000000000
+      internalID: -7727924585205109882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_6
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1069
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661e9d57c1d2366b0800000000000000
+      internalID: -5304346335852764826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_7
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1079
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e02c64202d51c20800000000000000
+      internalID: 3176676019398643342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1057
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc49e1606c54ebf00800000000000000
+      internalID: 1134420872952452300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_9
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1048
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd7667068f6562a0800000000000000
+      internalID: -6744862245476991493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_10
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1046
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57493f1d00f06b830800000000000000
+      internalID: 4086470208082121845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1048
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa49957f90916e00800000000000000
+      internalID: 1036268403819105008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 195
+        width: 892
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fafaeb3f73a2520800000000000000
+      internalID: 2678014448440946451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1008
+        width: 94
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fa9dbd0632a81a0800000000000000
+      internalID: -6806588987904774342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1016
+        width: 80
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a83a1eaeae52870800000000000000
+      internalID: 8657584153218484840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 345
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dccdffe717876e0800000000000000
+      internalID: -1839595657508368998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DiglettCombate_Derrota_16
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 328
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cea127def9b1afc0800000000000000
+      internalID: -3485300132425912640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DiglettCombate_Derrota_0: -3388377488786930790
+      DiglettCombate_Derrota_1: 3836617134370830068
+      DiglettCombate_Derrota_10: 4086470208082121845
+      DiglettCombate_Derrota_11: 1036268403819105008
+      DiglettCombate_Derrota_12: 2678014448440946451
+      DiglettCombate_Derrota_13: -6806588987904774342
+      DiglettCombate_Derrota_14: 8657584153218484840
+      DiglettCombate_Derrota_15: -1839595657508368998
+      DiglettCombate_Derrota_16: -3485300132425912640
+      DiglettCombate_Derrota_2: -8157314076537681887
+      DiglettCombate_Derrota_3: 6688507011813016572
+      DiglettCombate_Derrota_4: 1765702549071183165
+      DiglettCombate_Derrota_5: -7727924585205109882
+      DiglettCombate_Derrota_6: -5304346335852764826
+      DiglettCombate_Derrota_7: 3176676019398643342
+      DiglettCombate_Derrota_8: 1134420872952452300
+      DiglettCombate_Derrota_9: -6744862245476991493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 1e03b203c851d554295c15e067b027f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5962532808802308851
+    second: vini_corriendo 1_0
+  - first:
+      213: 6087071945362094708
+    second: vini_corriendo 1_1
+  - first:
+      213: -7191991051330406184
+    second: vini_corriendo 1_2
+  - first:
+      213: 5106594593624981267
+    second: vini_corriendo 1_3
+  - first:
+      213: -3383629022866815954
+    second: vini_corriendo 1_4
+  - first:
+      213: -5886206627244956374
+    second: vini_corriendo 1_5
+  - first:
+      213: -5840933691261857651
+    second: vini_corriendo 1_6
+  - first:
+      213: -8335266333002555470
+    second: vini_corriendo 1_7
+  - first:
+      213: -9093693138393454560
+    second: vini_corriendo 1_8
+  - first:
+      213: -7921864616192544036
+    second: vini_corriendo 1_9
+  - first:
+      213: -5155166479570485222
+    second: vini_corriendo 1_10
+  - first:
+      213: 3205154132772225668
+    second: vini_corriendo 1_11
+  - first:
+      213: 8965440036490512517
+    second: vini_corriendo 1_12
+  - first:
+      213: 3153304418281307343
+    second: vini_corriendo 1_13
+  - first:
+      213: -4540719632614327741
+    second: vini_corriendo 1_14
+  - first:
+      213: -2301306111882793936
+    second: vini_corriendo 1_15
+  - first:
+      213: 128825900900864370
+    second: vini_corriendo 1_16
+  - first:
+      213: -3396352495173152817
+    second: vini_corriendo 1_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vini_corriendo 1_8
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 187
+        width: 171
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028a6a56546bcc180800000000000000
+      internalID: -9093693138393454560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vini_corriendo 1_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 187
+        width: 171
+        height: 333
+      alignment: 9
+      pivot: {x: 0.37876624, y: 0.5124512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd27b197a12ef0290800000000000000
+      internalID: -7921864616192544036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vini_corriendo 1_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 187
+        width: 171
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10433b666b2578b0800000000000000
+      internalID: -5155166479570485222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vini_corriendo 1_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 187
+        width: 171
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482834eb3befa7c20800000000000000
+      internalID: 3205154132772225668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vini_corriendo 1_12
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 187
+        width: 171
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58805165634ab6c70800000000000000
+      internalID: 8965440036490512517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vini_corriendo 1_13
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 187
+        width: 171
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccb35859a9c2cb20800000000000000
+      internalID: 3153304418281307343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vini_corriendo 1_14
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 187
+        width: 171
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a71694d8f1cf0c0800000000000000
+      internalID: -4540719632614327741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vini_corriendo 1_15
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 187
+        width: 171
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c6ac9b84e1010e0800000000000000
+      internalID: -2301306111882793936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vini_corriendo 1_17
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 190
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf4139766bbdd0d0800000000000000
+      internalID: -3396352495173152817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 201d280245b37d34e81b84cfb3364050
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vini_corriendo 1_0: -5962532808802308851
+      vini_corriendo 1_1: 6087071945362094708
+      vini_corriendo 1_10: -5155166479570485222
+      vini_corriendo 1_11: 3205154132772225668
+      vini_corriendo 1_12: 8965440036490512517
+      vini_corriendo 1_13: 3153304418281307343
+      vini_corriendo 1_14: -4540719632614327741
+      vini_corriendo 1_15: -2301306111882793936
+      vini_corriendo 1_16: 128825900900864370
+      vini_corriendo 1_17: -3396352495173152817
+      vini_corriendo 1_2: -7191991051330406184
+      vini_corriendo 1_3: 5106594593624981267
+      vini_corriendo 1_4: -3383629022866815954
+      vini_corriendo 1_5: -5886206627244956374
+      vini_corriendo 1_6: -5840933691261857651
+      vini_corriendo 1_7: -8335266333002555470
+      vini_corriendo 1_8: -9093693138393454560
+      vini_corriendo 1_9: -7921864616192544036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
